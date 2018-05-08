@@ -7,4 +7,4 @@
 * Lab 3: [Install RHOAR Launch Pad](3.InstallRHOARLaunchPad.md)
 * Lab 4: [Build a Cloud Native Application using RHOAR Springboot Runtime](4.RHOAR-SpringBoot.md)
 * Lab 5: [Build a Cloud Native Application using RHOAR Wildfly Swarm Runtime](5.WildflyRestServices.md)
-* Lab 6: Refactor a Microservice using RHOAR Vert.x Runtime
+* Lab 6: [Build a Cloud Native Application using RHOAR Vert.x Runtime with Circuit Breaker](6.VertxGatewayService.md)
